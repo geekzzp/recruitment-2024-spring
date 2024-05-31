@@ -1,4 +1,4 @@
-CXXFLAGS=-Og -g -fsanitize=address -Wall -Wextra -Wshadow  -pipe
+CXXFLAGS=-Og -g -fsanitize=address -Wall -Wextra -Wshadow -pipe
 
 all: main
 
@@ -7,6 +7,9 @@ main: baseline.o main.o solution.o
 
 baseline.o: baseline.cc
 	g++ -O0 -Wall -Wextra -Wshadow -pipe -c -o $@ $^
+
+solution.o: solution.cc
+	g++ -O3 -Wall -Wextra -Wshadow -pipe -c -o $@ $^
 
 %.o: %.cc
 	g++ $(CXXFLAGS) -c -o $@ $^
