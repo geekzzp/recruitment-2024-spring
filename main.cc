@@ -310,5 +310,6 @@ auto main() -> int {
     }
 
     do_phase1_and_phase2(config);
+    // do_phase2_only(config);
     return 0;
 }

@@ -1,18 +1,21 @@
+CXX=g++
 CXXFLAGS=-Og -g -fsanitize=address -Wall -Wextra -Wshadow -pipe
+
+OPENMP_FLAGS=-fopenmp
 
 all: main
 
 main: baseline.o main.o solution.o
-	g++ $(CXXFLAGS) -o $@ $^
+	$(CXX) $(CXXFLAGS) $(OPENMP_FLAGS) -o $@ $^
 
 baseline.o: baseline.cc
-	g++ -O0 -Wall -Wextra -Wshadow -pipe -c -o $@ $^
+	$(CXX) -O0 -Wall -Wextra -Wshadow -pipe -c -o $@ $^
 
 solution.o: solution.cc
-	g++ -O3 -Wall -Wextra -Wshadow -pipe -c -o $@ $^
+	$(CXX) -O3 -Wall -Wextra -Wshadow -pipe $(OPENMP_FLAGS) -c -o $@ $^
 
 %.o: %.cc
-	g++ $(CXXFLAGS) -c -o $@ $^
+	$(CXX) $(CXXFLAGS) $(OPENMP_FLAGS) -c -o $@ $^
 
 clean:
 	rm -f *.o main

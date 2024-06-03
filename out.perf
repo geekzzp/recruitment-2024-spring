@@ -1,0 +1,2288 @@
+main 25011 49321.513158:          1 cycles:u: 
+	ffffffffac000b80 [unknown] ([unknown])
+	    7fb1daef4090 [unknown] (/lib/x86_64-linux-gnu/ld-2.27.so)
+
+main 25011 49321.513176:          1 cycles:u: 
+	    7fb1daef4093 [unknown] (/lib/x86_64-linux-gnu/ld-2.27.so)
+
+main 25011 49321.513182:          1 cycles:u: 
+	ffffffffac000b80 [unknown] ([unknown])
+	    7fb1daef4093 [unknown] (/lib/x86_64-linux-gnu/ld-2.27.so)
+
+main 25011 49321.513187:         69 cycles:u: 
+	    7fb1daef4ec6 [unknown] (/lib/x86_64-linux-gnu/ld-2.27.so)
+	    7fb1daef4098 [unknown] (/lib/x86_64-linux-gnu/ld-2.27.so)
+
+main 25011 49321.513201:      14581 cycles:u: 
+	    7fb1daf0db74 [unknown] (/lib/x86_64-linux-gnu/ld-2.27.so)
+
+main 25011 49321.516913:    3242645 cycles:u: 
+	    7fb1da034b63 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	               0 [unknown] ([unknown])
+
+main 25011 49321.594301:  310675566 cycles:u: 
+	    5641a500a687 _ZSt18generate_canonicalIfLm24ESt26linear_congruential_engineImLm16807ELm0ELm2147483647EEET_RT1_+0x91 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.640042:  173727544 cycles:u: 
+	    5641a500a2ed _ZNSt24uniform_int_distributionImEclISt26linear_congruential_engineImLm16807ELm0ELm2147483647EEEEmRT_RKNS0_10param_typeE+0x2d (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.667146:  107731258 cycles:u: 
+	    5641a500a313 _ZNSt24uniform_int_distributionImEclISt26linear_congruential_engineImLm16807ELm0ELm2147483647EEEEmRT_RKNS0_10param_typeE+0x53 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.691736:   91918099 cycles:u: 
+	    5641a500a397 _ZNSt24uniform_int_distributionImEclISt26linear_congruential_engineImLm16807ELm0ELm2147483647EEEEmRT_RKNS0_10param_typeE+0xd7 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.711488:   74324546 cycles:u: 
+	    5641a500a397 _ZNSt24uniform_int_distributionImEclISt26linear_congruential_engineImLm16807ELm0ELm2147483647EEEEmRT_RKNS0_10param_typeE+0xd7 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.728673:   65555729 cycles:u: 
+	    5641a500a425 _ZNSt24uniform_int_distributionImEclISt26linear_congruential_engineImLm16807ELm0ELm2147483647EEEEmRT_RKNS0_10param_typeE+0x165 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.742574:   56340178 cycles:u: 
+	    5641a5004ee9 _ZSt8generateIPmZ21make_a_index_sequenceS0_mEUlvE_EvT_S2_T0_+0x24 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.758561:   51763800 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.768433:   46212733 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.777559:   44624575 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.786768:   44754091 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.796457:   45672640 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.805863:   46528072 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.816231:   46979756 cycles:u: 
+	    5641a5006f0c _Z14do_phase2_only6Config+0x2b4 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.825872:   47633960 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.836455:   47309384 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.846017:   47780217 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.855832:   47336902 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.865537:   47969837 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.875475:   48275457 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.885982:   48570085 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.896210:   48727174 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.905997:   48194957 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.916107:   48286775 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.925973:   48417301 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.936742:   48582695 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.946587:   48710612 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.956696:   48009016 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.966407:   48454056 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.976577:   48385356 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.986895:   48702119 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49321.997059:   48740781 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.006761:   48438894 cycles:u: 
+	    5641a5006f17 _Z14do_phase2_only6Config+0x2bf (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.032356:   48433672 cycles:u: 
+	    5641a500afdf _Z19optimized_do_phase2PmPfS0_m+0x9f (/home/zzp/recruit/recruitment-2024-spring/main)
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25012 49322.074816:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25012 49322.074835:          1 cycles:u: 
+	    7fb1d89b5602 start_thread+0x2 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25012 49322.074846:          1 cycles:u: 
+	    7fb1d89b5640 start_thread+0x40 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25012 49322.074855:         68 cycles:u: 
+	    7fb1d89b3696 _init+0x1e (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25012 49322.074867:       7398 cycles:u: 
+	    7fb1daf11935 [unknown] (/lib/x86_64-linux-gnu/ld-2.27.so)
+	               0 [unknown] ([unknown])
+
+main 25013 49322.075594:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25013 49322.075604:          1 cycles:u: 
+	    7fb1d89b5602 start_thread+0x2 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25013 49322.075610:          1 cycles:u: 
+	    7fb1d89b5640 start_thread+0x40 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25013 49322.075615:        125 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25013 49322.075644:      26860 cycles:u: 
+	ffffffffac000b80 [unknown] ([unknown])
+	    7fb1d9f64221 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+
+main 25014 49322.075771:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25014 49322.075785:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25014 49322.075796:          1 cycles:u: 
+	    7fb1d89b5602 start_thread+0x2 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25014 49322.075805:         86 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25014 49322.075831:      10038 cycles:u: 
+	ffffffffac000b80 [unknown] ([unknown])
+	    7fb1d9f63bda [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	            1000 [unknown] ([unknown])
+
+main 25012 49322.075935:    1021790 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25015 49322.076023:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25015 49322.076041:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25015 49322.076052:          1 cycles:u: 
+	    7fb1d89b5602 start_thread+0x2 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25015 49322.076060:         68 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25015 49322.076071:       7937 cycles:u: 
+	    7fb1da026c21 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	               0 [unknown] ([unknown])
+	    7fb1d95f8840 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               4 [unknown] ([unknown])
+	    7fb1da027090 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	  401f0f00000000 [unknown] ([unknown])
+
+main 25016 49322.076272:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25016 49322.076317:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25016 49322.076324:          1 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25016 49322.076329:         29 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25016 49322.076335:       5332 cycles:u: 
+	    7fb1d89bd206 __pthread_setspecific+0x66 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+	               5 [unknown] ([unknown])
+	    7fb1da027090 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	  401f0f00000000 [unknown] ([unknown])
+
+main 25014 49322.076385:    1386419 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25017 49322.076469:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25017 49322.076477:          1 cycles:u: 
+	    7fb1d89b5602 start_thread+0x2 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25017 49322.076483:          1 cycles:u: 
+	    7fb1d89b5640 start_thread+0x40 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25017 49322.076488:        161 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25015 49322.076491:    1214351 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25017 49322.076526:      37786 cycles:u: 
+	ffffffffabf136be [unknown] ([unknown])
+	ffffffffac000ba2 [unknown] ([unknown])
+	    7fb1d916c30d [unknown] (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9094120 memcpy+0x0 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	48fdf262c07879e2 [unknown] ([unknown])
+
+main 25018 49322.076633:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25018 49322.076647:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25018 49322.076657:          1 cycles:u: 
+	    7fb1d89b5602 start_thread+0x2 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25018 49322.076665:         90 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25018 49322.076694:      11794 cycles:u: 
+	ffffffffabf13bf6 [unknown] ([unknown])
+	ffffffffabf122a4 [unknown] ([unknown])
+	ffffffffac00124c [unknown] ([unknown])
+	    7fb1d9f63bda [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	            1000 [unknown] ([unknown])
+
+main 25016 49322.076700:    1274916 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25019 49322.076867:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25019 49322.076881:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25019 49322.076892:          1 cycles:u: 
+	    7fb1d89b5602 start_thread+0x2 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25019 49322.076900:         87 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25019 49322.076925:      10741 cycles:u: 
+	ffffffffabf12283 [unknown] ([unknown])
+	ffffffffac00124c [unknown] ([unknown])
+	    7fb1da016fc4 __interceptor_realloc+0x164 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7fb1d89b7515 pthread_getattr_np+0xf5 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25020 49322.077074:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25020 49322.077085:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25020 49322.077093:          1 cycles:u: 
+	    7fb1d89b5612 start_thread+0x12 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25020 49322.077099:        115 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25020 49322.077128:      19723 cycles:u: 
+	ffffffffac000b80 [unknown] ([unknown])
+	    7fb1d9f63bda [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	            1000 [unknown] ([unknown])
+
+main 25013 49322.077247:    6673335 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25021 49322.077261:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25021 49322.077271:          1 cycles:u: 
+	    7fb1d89b5640 start_thread+0x40 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25021 49322.077277:          1 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25021 49322.077284:        131 cycles:u: 
+	    7fb1d9009969 __ctype_init+0x19 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25021 49322.077327:      25562 cycles:u: 
+	    7fb1d9f641f1 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+
+main 25018 49322.077427:    1762251 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25022 49322.077446:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25022 49322.077457:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25022 49322.077465:          1 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25022 49322.077471:        119 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25022 49322.077496:      19368 cycles:u: 
+	ffffffffac000b80 [unknown] ([unknown])
+	    7fb1d9f63bda [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	            1000 [unknown] ([unknown])
+
+main 25019 49322.077512:    1550520 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25023 49322.077622:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25023 49322.077631:          1 cycles:u: 
+	    7fb1d89b5602 start_thread+0x2 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25023 49322.077637:          1 cycles:u: 
+	    7fb1d89b5640 start_thread+0x40 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25023 49322.077648:        145 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25023 49322.077681:      28734 cycles:u: 
+	    7fb1da0167f5 __interceptor_free+0x115 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7fb1d89b719d pthread_attr_destroy+0xd (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+	               0 [unknown] ([unknown])
+
+main 25024 49322.077792:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25024 49322.077800:          1 cycles:u: 
+	    7fb1d89b5602 start_thread+0x2 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25024 49322.077807:          1 cycles:u: 
+	    7fb1d89b5640 start_thread+0x40 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25024 49322.077813:        145 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25024 49322.077855:      27051 cycles:u: 
+	ffffffffabf10fe1 [unknown] ([unknown])
+	ffffffffac0000da [unknown] ([unknown])
+	    7fb1d89c0c33 pthread_getaffinity_np@@GLIBC_2.3.4+0x23 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25025 49322.077971:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25025 49322.078044:          1 cycles:u: 
+	ffffffffac000d30 [unknown] ([unknown])
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25015 49322.078067:          1 cycles:u: 
+	    7fb1d95faf2d [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25025 49322.078076:          1 cycles:u: 
+	    7fb1d89b5602 start_thread+0x2 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25025 49322.078087:        284 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25015 49322.078109:          1 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25015 49322.078118:          1 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25015 49322.078126:         31 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25015 49322.078135:       4148 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25025 49322.078139:      11420 cycles:u: 
+	    7fb1da03b90f [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7fb1d89b7515 pthread_getattr_np+0xf5 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25020 49322.078154:    3908317 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25026 49322.078288:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25026 49322.078297:          1 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25026 49322.078304:          1 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25015 49322.078305:     634639 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25026 49322.078311:        136 cycles:u: 
+	    7fb1d9009969 __ctype_init+0x19 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25026 49322.078344:      25006 cycles:u: 
+	ffffffffabf13bf6 [unknown] ([unknown])
+	ffffffffabf122a4 [unknown] ([unknown])
+	ffffffffac00124c [unknown] ([unknown])
+	    7fb1d9f64221 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+
+main 25027 49322.078470:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25022 49322.078470:    3837970 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25027 49322.078480:          1 cycles:u: 
+	    7fb1d89b5602 start_thread+0x2 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25027 49322.078489:          1 cycles:u: 
+	    7fb1d89b5640 start_thread+0x40 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25027 49322.078497:        120 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25021 49322.078506:    4768728 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25027 49322.078519:      16224 cycles:u: 
+	ffffffffac000b80 [unknown] ([unknown])
+	    7fb1d9f63bda [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	            1000 [unknown] ([unknown])
+
+main 25023 49322.078544:    3415825 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25025 49322.078549:    1309019 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25028 49322.078618:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25028 49322.078631:          1 cycles:u: 
+	    7fb1d89b5602 start_thread+0x2 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25028 49322.078638:          1 cycles:u: 
+	    7fb1d89b5640 start_thread+0x40 (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25028 49322.078644:         99 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25028 49322.078671:      17448 cycles:u: 
+	ffffffffac000b80 [unknown] ([unknown])
+	    7fb1d9f63bda [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	            1000 [unknown] ([unknown])
+
+main 25017 49322.078774:    9387886 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25029 49322.078807:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25029 49322.078816:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25029 49322.078823:          1 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25029 49322.078829:        130 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25029 49322.078857:      23233 cycles:u: 
+	ffffffffabf13b20 [unknown] ([unknown])
+	ffffffffabf136aa [unknown] ([unknown])
+	ffffffffac000ba2 [unknown] ([unknown])
+	    7fb1d9f63bda [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	            1000 [unknown] ([unknown])
+
+main 25030 49322.079000:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25030 49322.079010:          1 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25030 49322.079017:          1 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25030 49322.079027:        126 cycles:u: 
+	    7fb1d900995e __ctype_init+0xe (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25030 49322.079060:      25363 cycles:u: 
+	ffffffffac000b80 [unknown] ([unknown])
+	    7fb1d9f63bda [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	            1000 [unknown] ([unknown])
+
+main 25031 49322.079164:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25027 49322.079170:    2574802 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25031 49322.079175:          1 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25031 49322.079181:          1 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25031 49322.079187:        115 cycles:u: 
+	    7fb1d9009969 __ctype_init+0x19 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25031 49322.079220:      23905 cycles:u: 
+	ffffffffac000b80 [unknown] ([unknown])
+	    7fb1d9f63bda [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	            1000 [unknown] ([unknown])
+
+main 25032 49322.079355:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25024 49322.079356:    6122831 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25032 49322.079366:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25032 49322.079373:          1 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25032 49322.079379:        115 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25032 49322.079415:      20268 cycles:u: 
+	ffffffffab0e0e89 [unknown] ([unknown])
+	ffffffffabf136dd [unknown] ([unknown])
+	ffffffffac000ba2 [unknown] ([unknown])
+	    7fb1d9f63bda [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	            1000 [unknown] ([unknown])
+
+main 25026 49322.079556:    4805704 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25033 49322.079569:          1 cycles:u: 
+	    7fb1d90fa614 __clone+0x34 (/lib/x86_64-linux-gnu/libc-2.27.so)
+	    7fb1d9f6fe95 __interceptor_pthread_create+0x1d5 (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7ffde008c070 [unknown] ([unknown])
+	fd89486d74db8548 [unknown] ([unknown])
+
+main 25028 49322.079576:    3568542 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25033 49322.079580:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25033 49322.079589:          1 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25033 49322.079602:        111 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25033 49322.079633:      15845 cycles:u: 
+	ffffffffac00124c [unknown] ([unknown])
+	    7fb1d9f63bda [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	            1000 [unknown] ([unknown])
+
+main 25034 49322.079782:          1 cycles:u: 
+	    7fb1d90fa61c __clone+0x3c (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25034 49322.079792:          1 cycles:u: 
+	    7fb1d89b561b start_thread+0x1b (/lib/x86_64-linux-gnu/libpthread-2.27.so)
+
+main 25034 49322.079799:          1 cycles:u: 
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25034 49322.079806:        120 cycles:u: 
+	ffffffffac000043 [unknown] ([unknown])
+	    7fb1d9009957 __ctype_init+0x7 (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25034 49322.079841:      22064 cycles:u: 
+	ffffffffabf1368a [unknown] ([unknown])
+	ffffffffac000ba2 [unknown] ([unknown])
+	    7fb1d9f63bda [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	            1000 [unknown] ([unknown])
+
+main 25030 49322.079852:    3043324 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+
+main 25033 49322.080135:    1506873 cycles:u: 
+	    5641a500ac11 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x71 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25029 49322.080178:    4909429 cycles:u: 
+	    5641a500ac11 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x71 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25013 49322.080405:          1 cycles:u: 
+	    7fb1d95efff7 omp_get_num_threads+0x7 (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25032 49322.080429:    4212966 cycles:u: 
+	    5641a500ac11 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x71 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25031 49322.080467:    5136694 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25013 49322.080471:          1 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25013 49322.080491:          1 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25013 49322.080521:         20 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25012 49322.080554:          1 cycles:u: 
+	    5641a500aba8 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x8 (/home/zzp/recruit/recruitment-2024-spring/main)
+	               0 [unknown] ([unknown])
+
+main 25013 49322.080555:       1293 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25013 49322.080589:      56286 cycles:u: 
+	    5641a500ac11 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x71 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25012 49322.080632:          1 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25012 49322.080677:          1 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25012 49322.080704:         17 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25012 49322.080745:        480 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25012 49322.080789:      22379 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25012 49322.080974:     722475 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25034 49322.081495:    4177304 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25013 49322.081582:    2139491 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25011 49322.082609:   42033243 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25012 49322.085574:   22045685 cycles:u: 
+	    5641a500ac0d _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x6d (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25025 49322.088232:   33553270 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25011 49322.088403:   24747259 cycles:u: 
+	    5641a500ac0d _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x6d (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25026 49322.093950:          1 cycles:u: 
+	    5641a500ac11 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x71 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25026 49322.093984:          1 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25026 49322.094001:          1 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25026 49322.094010:         36 cycles:u: 
+	    5641a500ac11 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x71 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25026 49322.094028:       2721 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25026 49322.094124:     384115 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25014 49322.095928:   70955310 cycles:u: 
+	    5641a500ac11 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x71 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25011 49322.099199:   26160042 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25019 49322.099432:   80297321 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25033 49322.099494:   63091807 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25026 49322.099737:   26838488 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25015 49322.101056:   88611559 cycles:u: 
+	    5641a500ac11 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x71 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25013 49322.103622:   80859702 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25011 49322.105292:   28282922 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25023 49322.106230:  115779028 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25018 49322.107447:   78268328 cycles:u: 
+	    5641a500ac09 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x69 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25030 49322.113281:  121628259 cycles:u: 
+	    7fb1d95fb0ca [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25021 49322.113471:  127112730 cycles:u: 
+	    7fb1d95fb0ca [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25034 49322.116477:          1 cycles:u: 
+	    5641a500ac0d _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x6d (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25034 49322.116488:          1 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25034 49322.116493:          1 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25034 49322.116499:        108 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25034 49322.116509:      25347 cycles:u: 
+	    5641a500ac05 _Z19optimized_do_phase2PmPfS0_m._omp_fn.0+0x65 (/home/zzp/recruit/recruitment-2024-spring/main)
+	         131a489 [unknown] ([unknown])
+	7ea333bd7ea5c735 [unknown] ([unknown])
+
+main 25026 49322.117427:          1 cycles:u: 
+	    7fb1d95fb0dd [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25026 49322.117438:          1 cycles:u: 
+	    7fb1d95f897e [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25012 49322.117449:          1 cycles:u: 
+	    7fb1d95fb0dd [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25026 49322.117450:          1 cycles:u: 
+	    7fb1d95fafe3 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25033 49322.117455:          1 cycles:u: 
+	    7fb1d95fb0dd [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25026 49322.117458:        109 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25012 49322.117463:          1 cycles:u: 
+	    7fb1d95fb0ee [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25026 49322.117468:      11960 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25033 49322.117469:          1 cycles:u: 
+	    7fb1d95f897e [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25012 49322.117472:          1 cycles:u: 
+	    7fb1d95f897e [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25012 49322.117481:         88 cycles:u: 
+	    7fb1d95fafe3 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25033 49322.117481:          1 cycles:u: 
+	    7fb1d95fafe3 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25012 49322.117490:      12562 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25033 49322.117490:         95 cycles:u: 
+	    7fb1d95faff0 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25033 49322.117500:       9310 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25011 49322.117727:   28057236 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25012 49322.117986:    1834108 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25026 49322.118095:    1829864 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25033 49322.118203:    1424418 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25034 49322.118285:    6176754 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25018 49322.118557:          1 cycles:u: 
+	    7fb1d95fb0dd [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25018 49322.118566:          1 cycles:u: 
+	    7fb1d95fb0ee [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25018 49322.118573:          1 cycles:u: 
+	    7fb1d95f897e [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25018 49322.118585:        137 cycles:u: 
+	    7fb1d95fafe3 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25018 49322.118598:      26733 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25018 49322.119732:    2681170 cycles:u: 
+	ffffffffac001247 [unknown] ([unknown])
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25020 49322.120025:  156093689 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25011 49322.124401:   30969081 cycles:u: 
+	    5641a500ae3c _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xdc (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.130325:   29455679 cycles:u: 
+	    5641a500ae4e _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xee (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.137041:   33518692 cycles:u: 
+	    5641a500ae27 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc7 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.144347:   36472703 cycles:u: 
+	    5641a500adea _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8a (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.152406:   40207155 cycles:u: 
+	    5641a500adec _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8c (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.161076:   43191426 cycles:u: 
+	    5641a500ae4e _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xee (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.170281:   45252476 cycles:u: 
+	    5641a500ade4 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x84 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.179625:   46640802 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.189191:   47598141 cycles:u: 
+	    5641a500ae4e _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xee (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.198836:   48357900 cycles:u: 
+	    5641a500ae20 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc0 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.208613:   48937877 cycles:u: 
+	    5641a500adea _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8a (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.219064:   49408615 cycles:u: 
+	    5641a500adea _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8a (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.228814:   49347128 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.239159:   49448268 cycles:u: 
+	    5641a500adea _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8a (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.249151:   49415131 cycles:u: 
+	    5641a500ae46 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xe6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.258845:   49362070 cycles:u: 
+	    5641a5003b16 _ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEENS0_5__ops15_Iter_less_iterEEvT_SB_SB_SB_T0_+0x1c (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.268845:   49686459 cycles:u: 
+	    5641a5004a76 _ZSt4swapIfENSt9enable_ifIXsrSt6__and_IJSt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS4_ESt18is_move_assignableIS4_EEE5valueEvE4typeERS4_SE_+0x8 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500496f _ZNSt4pairIfmE4swapERS0_+0x23 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a50046a9 _ZSt4swapIfmENSt9enable_ifIXsrSt6__and_IJSt14__is_swappableIT_ES2_IT0_EEE5valueEvE4typeERSt4pairIS3_S5_ESC_+0x23 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5004260 _ZSt9iter_swapIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEES8_EvT_T0_+0x37 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003c0c _ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEENS0_5__ops15_Iter_less_iterEEvT_SB_SB_SB_T0_+0x112 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.278820:   49955997 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.289325:   50128417 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.299133:   49963868 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.309115:   49871587 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.318923:   50114832 cycles:u: 
+	    5641a500ae20 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc0 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.329026:   50365247 cycles:u: 
+	    5641a500adfb _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x9b (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.339620:   50608354 cycles:u: 
+	    5641a500adea _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8a (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.349589:   50211528 cycles:u: 
+	    5641a500adea _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8a (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.359490:   50027142 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.369554:   50227561 cycles:u: 
+	    5641a500ade4 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x84 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.379468:   50419145 cycles:u: 
+	    5641a500ae27 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc7 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.390106:   50522049 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.400088:   50255438 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.410038:   50123117 cycles:u: 
+	    5641a500ae12 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.420134:   50217924 cycles:u: 
+	    5641a500ade4 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x84 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.430632:   50292864 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.440838:   50425698 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.450803:   49838153 cycles:u: 
+	    5641a500adea _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8a (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.460730:   49814294 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.470764:   50061329 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.481312:   50164011 cycles:u: 
+	    5641a500ae12 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.491603:   50256661 cycles:u: 
+	    5641a5004228 _ZStltIfmEbRKSt4pairIT_T0_ES5_+0x60 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003b26 _ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEENS0_5__ops15_Iter_less_iterEEvT_SB_SB_SB_T0_+0x2c (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.501615:   49669347 cycles:u: 
+	    5641a500ae4e _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xee (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.511425:   49624712 cycles:u: 
+	    5641a500ade4 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x84 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.521582:   49716495 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.532308:   49917325 cycles:u: 
+	    5641a500adec _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8c (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.542085:   49679051 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.552008:   49281908 cycles:u: 
+	    5641a500ae12 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.561753:   49631033 cycles:u: 
+	    5641a500ae4e _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xee (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.571777:   49892240 cycles:u: 
+	    5641a500ae4e _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xee (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.581989:   50190552 cycles:u: 
+	    5641a500adfb _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x9b (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.592520:   50314283 cycles:u: 
+	    5641a500ae22 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.602355:   50053508 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.612349:   49766504 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.622322:   49975360 cycles:u: 
+	    5641a500ae22 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.632121:   50134998 cycles:u: 
+	    5641a5004b25 _ZSt4swapImENSt9enable_ifIXsrSt6__and_IJSt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS4_ESt18is_move_assignableIS4_EEE5valueEvE4typeERS4_SE_+0x2e (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500498a _ZNSt4pairIfmE4swapERS0_+0x3e (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a50046a9 _ZSt4swapIfmENSt9enable_ifIXsrSt6__and_IJSt14__is_swappableIT_ES2_IT0_EEE5valueEvE4typeERSt4pairIS3_S5_ESC_+0x23 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5004260 _ZSt9iter_swapIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEES8_EvT_T0_+0x37 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003b85 _ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEENS0_5__ops15_Iter_less_iterEEvT_SB_SB_SB_T0_+0x8b (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.641992:   50344659 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.652015:   50664695 cycles:u: 
+	    5641a500adea _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8a (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.662041:   50877428 cycles:u: 
+	    5641a500adec _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8c (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.672074:   50947705 cycles:u: 
+	    5641a500adea _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8a (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.682159:   51027123 cycles:u: 
+	    5641a500468e _ZSt4swapIfmENSt9enable_ifIXsrSt6__and_IJSt14__is_swappableIT_ES2_IT0_EEE5valueEvE4typeERSt4pairIS3_S5_ESC_+0x8 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5004260 _ZSt9iter_swapIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEES8_EvT_T0_+0x37 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003b55 _ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEENS0_5__ops15_Iter_less_iterEEvT_SB_SB_SB_T0_+0x5b (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.692217:   51095313 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.702343:   51104568 cycles:u: 
+	    5641a500ae4e _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xee (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.712818:   51141706 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.723292:   50925134 cycles:u: 
+	    5641a500ae1a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xba (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.733669:   50420841 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.743919:   50351588 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.754019:   49934376 cycles:u: 
+	    5641a500ae22 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.764084:   49820419 cycles:u: 
+	    5641a500ae46 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xe6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.774553:   49853898 cycles:u: 
+	    5641a500ae3c _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xdc (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.784843:   49805688 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.795400:   49375684 cycles:u: 
+	    5641a500adc4 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x64 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.805689:   49040796 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.815851:   48820381 cycles:u: 
+	    5641a500ae27 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc7 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.825764:   48591851 cycles:u: 
+	    5641a500ae4e _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xee (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.835758:   48478848 cycles:u: 
+	    5641a50041ed _ZStltIfmEbRKSt4pairIT_T0_ES5_+0x25 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003af3 _ZNK9__gnu_cxx5__ops15_Iter_less_iterclINS_17__normal_iteratorIPSt4pairIfmESt6vectorIS5_SaIS5_EEEESA_EEbT_T0_+0x3b (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003b26 _ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEENS0_5__ops15_Iter_less_iterEEvT_SB_SB_SB_T0_+0x2c (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.845924:   48800542 cycles:u: 
+	    5641a500ade4 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x84 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.856978:   48941324 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.867649:   48718747 cycles:u: 
+	    5641a500ae20 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc0 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.877558:   47657854 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.887318:   47275670 cycles:u: 
+	    5641a500ae1a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xba (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.897647:   47535894 cycles:u: 
+	    5641a500adfb _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x9b (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.907486:   47812881 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.917247:   47601298 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.927466:   47922008 cycles:u: 
+	    5641a500ae12 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.937449:   48285349 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.947123:   48106960 cycles:u: 
+	    5641a500ae4e _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xee (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.957083:   48246143 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.966967:   48728509 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.976919:   48846179 cycles:u: 
+	    5641a50041ff _ZStltIfmEbRKSt4pairIT_T0_ES5_+0x37 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003af3 _ZNK9__gnu_cxx5__ops15_Iter_less_iterclINS_17__normal_iteratorIPSt4pairIfmESt6vectorIS5_SaIS5_EEEESA_EEbT_T0_+0x3b (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003b26 _ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEENS0_5__ops15_Iter_less_iterEEvT_SB_SB_SB_T0_+0x2c (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.986806:   49074198 cycles:u: 
+	    5641a500adea _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8a (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49322.996681:   49228591 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.006526:   49455787 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.016341:   49697718 cycles:u: 
+	    5641a500adea _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8a (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.026549:   49972130 cycles:u: 
+	    5641a5004aa2 _ZSt4swapIfENSt9enable_ifIXsrSt6__and_IJSt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS4_ESt18is_move_assignableIS4_EEE5valueEvE4typeERS4_SE_+0x34 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500496f _ZNSt4pairIfmE4swapERS0_+0x23 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a50046a9 _ZSt4swapIfmENSt9enable_ifIXsrSt6__and_IJSt14__is_swappableIT_ES2_IT0_EEE5valueEvE4typeERSt4pairIS3_S5_ESC_+0x23 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5004260 _ZSt9iter_swapIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEES8_EvT_T0_+0x37 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003b55 _ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEENS0_5__ops15_Iter_less_iterEEvT_SB_SB_SB_T0_+0x5b (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.036408:   50279118 cycles:u: 
+	    5641a500adec _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8c (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.046291:   50121412 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.056090:   50431842 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.066033:   50660488 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.075985:   51003175 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.085937:   51144010 cycles:u: 
+	    5641a500ae20 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc0 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.096104:   51304916 cycles:u: 
+	    5641a500ae27 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc7 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.106222:   51364120 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.116206:   51377444 cycles:u: 
+	    5641a500ae1a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xba (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.126207:   51354030 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.136674:   51474672 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.147068:   51525126 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.157098:   51111610 cycles:u: 
+	    5641a500ae1a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xba (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.167213:   50865980 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.177157:   50973421 cycles:u: 
+	    5641a500ade4 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x84 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.187252:   50944953 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.197246:   51120097 cycles:u: 
+	    5641a500ae4e _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xee (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.207452:   51124125 cycles:u: 
+	    5641a500ae22 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.217600:   51241544 cycles:u: 
+	    5641a500adfb _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x9b (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.227679:   51110281 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.238033:   51066752 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.248131:   50942547 cycles:u: 
+	    5641a500ae22 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.258046:   50807479 cycles:u: 
+	    5641a50041ff _ZStltIfmEbRKSt4pairIT_T0_ES5_+0x37 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003af3 _ZNK9__gnu_cxx5__ops15_Iter_less_iterclINS_17__normal_iteratorIPSt4pairIfmESt6vectorIS5_SaIS5_EEEESA_EEbT_T0_+0x3b (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003b3e _ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEENS0_5__ops15_Iter_less_iterEEvT_SB_SB_SB_T0_+0x44 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.267985:   50939046 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.278950:   51058371 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.288823:   50640428 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.298764:   50353535 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.308608:   50582454 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.318640:   50841063 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.328662:   51029969 cycles:u: 
+	    5641a5003af9 _ZNK9__gnu_cxx5__ops15_Iter_less_iterclINS_17__normal_iteratorIPSt4pairIfmESt6vectorIS5_SaIS5_EEEESA_EEbT_T0_+0x41 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.338729:   51115256 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.348711:   51180058 cycles:u: 
+	    5641a50041dc _ZStltIfmEbRKSt4pairIT_T0_ES5_+0x14 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003af3 _ZNK9__gnu_cxx5__ops15_Iter_less_iterclINS_17__normal_iteratorIPSt4pairIfmESt6vectorIS5_SaIS5_EEEESA_EEbT_T0_+0x3b (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003b3e _ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEENS0_5__ops15_Iter_less_iterEEvT_SB_SB_SB_T0_+0x44 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.358806:   51274782 cycles:u: 
+	    5641a500adec _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8c (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.368787:   51343950 cycles:u: 
+	    5641a500adec _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8c (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.378942:   51424746 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.389045:   51458733 cycles:u: 
+	    5641a500ae27 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc7 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.399186:   51460628 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.409214:   51392703 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.419327:   51420638 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.429517:   51448627 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.439664:   51389487 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.449899:   51320923 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.459874:   51324889 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.469997:   51210453 cycles:u: 
+	    5641a5003af9 _ZNK9__gnu_cxx5__ops15_Iter_less_iterclINS_17__normal_iteratorIPSt4pairIfmESt6vectorIS5_SaIS5_EEEESA_EEbT_T0_+0x41 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.480031:   51347291 cycles:u: 
+	    5641a500ade4 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x84 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.490176:   51304432 cycles:u: 
+	    5641a500ae20 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc0 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.500215:   51384554 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.510334:   51324229 cycles:u: 
+	    5641a500ae25 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc5 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.520350:   51410363 cycles:u: 
+	    5641a500ade0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x80 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.530391:   51388386 cycles:u: 
+	    5641a500ae12 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.541134:   51479479 cycles:u: 
+	    5641a500ade4 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x84 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.551200:   51085438 cycles:u: 
+	    5641a500ade4 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x84 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.561100:   50874484 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.571204:   50918277 cycles:u: 
+	    5641a500ae22 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.581162:   51123538 cycles:u: 
+	    5641a50041e7 _ZStltIfmEbRKSt4pairIT_T0_ES5_+0x1f (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003af3 _ZNK9__gnu_cxx5__ops15_Iter_less_iterclINS_17__normal_iteratorIPSt4pairIfmESt6vectorIS5_SaIS5_EEEESA_EEbT_T0_+0x3b (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003b3e _ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEENS0_5__ops15_Iter_less_iterEEvT_SB_SB_SB_T0_+0x44 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.591256:   51127073 cycles:u: 
+	    5641a500adea _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8a (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.601298:   51288824 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.611416:   51259354 cycles:u: 
+	    5641a500ae27 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc7 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.621444:   51363533 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.631670:   51300223 cycles:u: 
+	    5641a500ae4a _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xea (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.641698:   51417739 cycles:u: 
+	    5641a500ae12 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.651923:   51252868 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.662078:   51268950 cycles:u: 
+	    5641a5004a91 _ZSt4swapIfENSt9enable_ifIXsrSt6__and_IJSt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS4_ESt18is_move_assignableIS4_EEE5valueEvE4typeERS4_SE_+0x23 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500496f _ZNSt4pairIfmE4swapERS0_+0x23 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a50046a9 _ZSt4swapIfmENSt9enable_ifIXsrSt6__and_IJSt14__is_swappableIT_ES2_IT0_EEE5valueEvE4typeERSt4pairIS3_S5_ESC_+0x23 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5004260 _ZSt9iter_swapIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEES8_EvT_T0_+0x37 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a5003b85 _ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEENS0_5__ops15_Iter_less_iterEEvT_SB_SB_SB_T0_+0x8b (/home/zzp/recruit/recruitment-2024-spring/main)
+	    5641a500add0 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x70 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.672356:   51145164 cycles:u: 
+	    5641a500ae12 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb2 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.682309:   51088876 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.692355:   50959411 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.702352:   51136418 cycles:u: 
+	    5641a500adef _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0x8f (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.712438:   51188817 cycles:u: 
+	    5641a500ae16 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xb6 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.722439:   51297220 cycles:u: 
+	    5641a500ae27 _ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIfmESt6vectorIS3_SaIS3_EEEElNS0_5__ops15_Iter_less_iterEEvT_SB_T0_T1_.isra.35+0xc7 (/home/zzp/recruit/recruitment-2024-spring/main)
+
+main 25011 49323.732623:   51297111 cycles:u: 
+	    5641a500b0cc _Z19optimized_do_phase2PmPfS0_m+0x18c (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.742690:   51429882 cycles:u: 
+	    5641a500b0cc _Z19optimized_do_phase2PmPfS0_m+0x18c (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.752900:   51303093 cycles:u: 
+	    5641a500b0a3 _Z19optimized_do_phase2PmPfS0_m+0x163 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.763005:   51331864 cycles:u: 
+	    5641a500b0ca _Z19optimized_do_phase2PmPfS0_m+0x18a (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.773192:   51206662 cycles:u: 
+	    5641a500b0c7 _Z19optimized_do_phase2PmPfS0_m+0x187 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.783274:   51207748 cycles:u: 
+	    5641a500b164 _Z19optimized_do_phase2PmPfS0_m+0x224 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.793433:   51100138 cycles:u: 
+	    5641a500b168 _Z19optimized_do_phase2PmPfS0_m+0x228 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.803486:   51153417 cycles:u: 
+	    5641a500b0ba _Z19optimized_do_phase2PmPfS0_m+0x17a (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.813653:   51065626 cycles:u: 
+	    5641a500b0a9 _Z19optimized_do_phase2PmPfS0_m+0x169 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.823734:   51118765 cycles:u: 
+	    5641a500b0c7 _Z19optimized_do_phase2PmPfS0_m+0x187 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.834044:   51047208 cycles:u: 
+	    5641a500b0c7 _Z19optimized_do_phase2PmPfS0_m+0x187 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.844073:   51093755 cycles:u: 
+	    5641a500b0cc _Z19optimized_do_phase2PmPfS0_m+0x18c (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.854217:   50825125 cycles:u: 
+	    5641a500b0a3 _Z19optimized_do_phase2PmPfS0_m+0x163 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.864202:   50945795 cycles:u: 
+	    5641a500b0a3 _Z19optimized_do_phase2PmPfS0_m+0x163 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.874232:   50901631 cycles:u: 
+	    5641a500b0c7 _Z19optimized_do_phase2PmPfS0_m+0x187 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.884266:   51004879 cycles:u: 
+	    5641a500b0a3 _Z19optimized_do_phase2PmPfS0_m+0x163 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.894291:   51112234 cycles:u: 
+	    5641a500b164 _Z19optimized_do_phase2PmPfS0_m+0x224 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.904351:   51174241 cycles:u: 
+	    5641a500b0ad _Z19optimized_do_phase2PmPfS0_m+0x16d (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.914406:   51230955 cycles:u: 
+	    5641a500b164 _Z19optimized_do_phase2PmPfS0_m+0x224 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.924443:   51298484 cycles:u: 
+	    5641a500b0a3 _Z19optimized_do_phase2PmPfS0_m+0x163 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.934646:   51346756 cycles:u: 
+	    5641a500b0ca _Z19optimized_do_phase2PmPfS0_m+0x18a (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.944723:   51327074 cycles:u: 
+	    5641a500b0ca _Z19optimized_do_phase2PmPfS0_m+0x18a (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.954764:   51302724 cycles:u: 
+	    5641a500b0be _Z19optimized_do_phase2PmPfS0_m+0x17e (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.964860:   51330050 cycles:u: 
+	    5641a500b164 _Z19optimized_do_phase2PmPfS0_m+0x224 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1b947d090 [unknown] ([unknown])
+	          c248dd [unknown] ([unknown])
+
+main 25011 49323.994071:   51378608 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25027 49323.994793:  149357596 cycles:u: 
+	    5641a500accb _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xab (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25025 49323.995574:  120278647 cycles:u: 
+	    5641a500acc2 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xa2 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25032 49323.996865:  153107737 cycles:u: 
+	    5641a500acf3 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xd3 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25022 49323.998395:  174179945 cycles:u: 
+	    5641a500acf0 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xd0 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25024 49323.999355:  166977789 cycles:u: 
+	    5641a500acbf _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9f (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25028 49324.001041:  175097087 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25011 49324.003305:   42828240 cycles:u: 
+	    5641a500acc2 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xa2 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25031 49324.007190:  200437953 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25025 49324.011358:   71813510 cycles:u: 
+	    5641a500acf3 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xd3 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25011 49324.011496:   40234900 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25013 49324.012187:  139652854 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25014 49324.013171:  176629448 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25019 49324.015056:  171863820 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25029 49324.016733:  228078205 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25011 49324.020144:   41675810 cycles:u: 
+	    5641a500ac9d _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x7d (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25017 49324.022212:  281643986 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25016 49324.023569:  265007753 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25033 49324.024329:  160208144 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25024 49324.024419:  125367106 cycles:u: 
+	    5641a500acbf _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9f (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25025 49324.024984:   63004950 cycles:u: 
+	    5641a500ace8 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xc8 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25013 49324.027734:   76129766 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25020 49324.028515:  166171586 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25032 49324.029069:  157485210 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25014 49324.029542:   80833126 cycles:u: 
+	    5641a500acb3 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x93 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25021 49324.031688:  177877054 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25011 49324.032748:   43743706 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25022 49324.032978:  161655553 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25019 49324.033417:   90599730 cycles:u: 
+	    5641a500acae _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x8e (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25023 49324.033752:  216516071 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25028 49324.035110:  168342098 cycles:u: 
+	    5641a500aca2 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x82 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25026 49324.036858:  210033464 cycles:u: 
+	    5641a500acbf _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9f (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25030 49324.037795:  213936855 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25025 49324.037810:   58140581 cycles:u: 
+	    5641a500ace8 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xc8 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25031 49324.039955:  160949036 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25011 49324.042029:   44096873 cycles:u: 
+	    5641a500acc2 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xa2 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25013 49324.042547:   72795653 cycles:u: 
+	    5641a500acf3 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xd3 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25027 49324.043282:  229033862 cycles:u: 
+	    5641a500acae _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x8e (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25014 49324.044749:   73494752 cycles:u: 
+	    5641a500accb _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xab (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25024 49324.045936:  107776686 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25029 49324.048321:  157657150 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25018 49324.048620:  273171277 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25025 49324.048904:   55057242 cycles:u: 
+	    5641a500acbd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9d (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25020 49324.049641:   92313725 cycles:u: 
+	    5641a500acfb _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xdb (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25019 49324.049675:   81121412 cycles:u: 
+	    5641a500acfb _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xdb (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25021 49324.050396:   87501128 cycles:u: 
+	    5641a500acbd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9d (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25011 49324.051005:   42468816 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25017 49324.051086:  143034906 cycles:u: 
+	    5641a500acbf _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9f (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25032 49324.051687:  110120394 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25012 49324.052014:  253321468 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25023 49324.052821:   95323587 cycles:u: 
+	    5641a500acbd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9d (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25013 49324.055858:   64950173 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25014 49324.058514:   67387945 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25030 49324.058880:  101803476 cycles:u: 
+	    5641a500accb _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xab (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25025 49324.059451:   52290874 cycles:u: 
+	    5641a500acba _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9a (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25011 49324.059851:   43586723 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25028 49324.062008:  129224777 cycles:u: 
+	    5641a500acf0 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xd0 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25022 49324.063139:  124060749 cycles:u: 
+	    5641a500acbd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9d (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25031 49324.063742:  114793489 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25019 49324.063836:   70455913 cycles:u: 
+	    5641a500acac _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x8c (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25024 49324.064938:   94375243 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25020 49324.066293:   80842859 cycles:u: 
+	    5641a500acc2 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xa2 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25021 49324.067465:   78190582 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25013 49324.068209:   60677230 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25011 49324.069035:   44921537 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25025 49324.069826:   51514023 cycles:u: 
+	    5641a500acac _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x8c (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25023 49324.069903:   84813637 cycles:u: 
+	    5641a500acbf _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9f (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25029 49324.071186:  113356538 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25032 49324.071324:   95785336 cycles:u: 
+	    5641a500acc2 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xa2 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25027 49324.071835:  138782959 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25014 49324.072127:   60955571 cycles:u: 
+	    5641a500accb _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xab (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25017 49324.073602:  112351718 cycles:u: 
+	    5641a500acbd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9d (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25030 49324.076066:   84398193 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25019 49324.076929:   64985694 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25011 49324.078466:   46174031 cycles:u: 
+	    5641a500acac _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x8c (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25013 49324.079976:   56712810 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25025 49324.080438:   51087349 cycles:u: 
+	    5641a500acbf _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9f (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25024 49324.082122:   84030400 cycles:u: 
+	    5641a500acae _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x8e (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25033 49324.082399:  265513477 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25021 49324.083265:   70310761 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25014 49324.084511:   57849051 cycles:u: 
+	    5641a500acae _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x8e (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25023 49324.084582:   72889409 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25022 49324.084878:   96632805 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25020 49324.085281:   76849089 cycles:u: 
+	    5641a500acf3 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xd3 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25011 49324.088311:   47102176 cycles:u: 
+	    5641a500ace8 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xc8 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25032 49324.088725:   84945347 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25019 49324.089415:   61111186 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25031 49324.089457:   99316456 cycles:u: 
+	    5641a500acbd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9d (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25029 49324.091034:   98524287 cycles:u: 
+	    5641a500acc2 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xa2 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25013 49324.091135:   54577485 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25028 49324.091583:  102650825 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25030 49324.092945:   79970024 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25025 49324.093274:   50659739 cycles:u: 
+	    5641a500acf0 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xd0 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25016 49324.093662:  321446073 cycles:u: 
+	    5641a500acbd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9d (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25017 49324.094153:   97845177 cycles:u: 
+	    5641a500aca2 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x82 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25026 49324.096477:  290024948 cycles:u: 
+	    5641a500acf3 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xd3 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25014 49324.097540:   54311501 cycles:u: 
+	    5641a500acc2 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xa2 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25021 49324.097933:   61765678 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25011 49324.097958:   47677758 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25023 49324.098107:   66756993 cycles:u: 
+	    5641a500acbf _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9f (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25024 49324.100277:   72203753 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25020 49324.101382:   67440181 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25022 49324.103096:   84769677 cycles:u: 
+	    5641a500acbf _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x9f (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25027 49324.103204:  109324835 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25013 49324.103698:   53072343 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25019 49324.103796:   57115817 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25032 49324.103972:   72646997 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25018 49324.104136:  239240557 cycles:u: 
+	    5641a500acac _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x8c (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25025 49324.104881:   49566261 cycles:u: 
+	    5641a500acae _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x8e (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25031 49324.105547:   79583728 cycles:u: 
+	    5641a500acae _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x8e (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25011 49324.107942:   47833232 cycles:u: 
+	    5641a500acf3 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xd3 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25015 49324.109049:  572524672 cycles:u: 
+	    5641a500ac94 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x74 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25014 49324.109241:   52287547 cycles:u: 
+	    7fb1d95fb0ca [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25030 49324.110205:   69402841 cycles:u: 
+	    5641a500acae _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0x8e (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25021 49324.112870:   56934128 cycles:u: 
+	    5641a500acc2 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xa2 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25028 49324.113099:   80700391 cycles:u: 
+	    5641a500acdd _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xbd (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25020 49324.113217:   57059865 cycles:u: 
+	    5641a500acf0 _Z19optimized_do_phase2PmPfS0_m._omp_fn.1+0xd0 (/home/zzp/recruit/recruitment-2024-spring/main)
+	    7fb1d1295800 [unknown] ([unknown])
+	         1009b1c [unknown] ([unknown])
+
+main 25033 49324.113732:  144796720 cycles:u: 
+	    7fb1d95fb0ca [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	bebebebebebebebe [unknown] ([unknown])
+
+main 25025 49324.115740:   47044982 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25029 49324.116380:   87143404 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25013 49324.117451:   51473210 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25012 49324.118106:  283216031 cycles:u: 
+	    7fb1d95faf22 [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25011 49324.129377:   48217252 cycles:u: 
+	    7fb1d916c30d [unknown] (/lib/x86_64-linux-gnu/libc-2.27.so)
+
+main 25056 49324.148044:          1 cycles:u: 
+	    7fb1da036884 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7fb1da03d0fa [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+
+main 25056 49324.148056:          1 cycles:u: 
+	    7fb1da03cd42 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+
+main 25056 49324.148062:          1 cycles:u: 
+	ffffffffac000000 [unknown] ([unknown])
+	ffffffffac0000d5 [unknown] ([unknown])
+	    7fb1da036037 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+
+main 25056 49324.148102:        100 cycles:u: 
+	ffffffffabf10fe0 [unknown] ([unknown])
+	ffffffffac0000da [unknown] ([unknown])
+	    7fb1da035ff7 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+
+main 25056 49324.148513:      21857 cycles:u: 
+	ffffffffac104109 [unknown] ([unknown])
+	ffffffffac0000d5 [unknown] ([unknown])
+	    7fb1da035fb3 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	    7fb1daf21000 [unknown] (/lib/x86_64-linux-gnu/ld-2.27.so)
+	    7ffde008c420 [unknown] ([unknown])
+	    f8ec81485355 [unknown] ([unknown])
+
+main 25056 49324.149457:     698860 cycles:u: 
+	    7fb1d9f5cbb9 [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	               0 [unknown] ([unknown])
+
+main 25056 49324.150116:    2760551 cycles:u: 
+	    7fb1da0424fa [unknown] (/usr/lib/x86_64-linux-gnu/libasan.so.4.0.0)
+	               0 [unknown] ([unknown])
+
+main 25014 49324.151407:          1 cycles:u: 
+	ffffffffac000043 [unknown] ([unknown])
+	    7fb1d95faf4c [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
+main 25028 49324.151775:          1 cycles:u: 
+	ffffffffac000069 [unknown] ([unknown])
+	    7fb1d95faf4c [unknown] (/usr/lib/x86_64-linux-gnu/libgomp.so.1.0.0)
+	               0 [unknown] ([unknown])
+
