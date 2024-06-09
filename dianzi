@@ -119,3 +119,6 @@ void optimized_do_phase2(size_t* result, float* data, float* query, size_t size)
         result[q[query_pos].second] = data_pos;
     }
 }
+
+solution.o: solution.cc
+	$(CXX) -O3 -march=native -funroll-loops -ffast-math -Wall -Wextra -Wshadow -pipe -D_GLIBCXX_PARALLEL $(OPENMP_FLAGS) -c -o $@ $^
