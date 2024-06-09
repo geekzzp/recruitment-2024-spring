@@ -1,0 +1,121 @@
+    for (i = 0; i < size - 7; i += 8) {
+        __m256 float_data = _mm256_loadu_ps(&query[i]);  // 加载float数据
+        __m256i index_data = _mm256_setr_epi32(i, i+1, i+2, i+3, i+4, i+5, i+6, i+7);  // 创建索引
+
+        // 将SIMD数据存储到临时数组
+        float temp_floats[8];
+        size_t temp_indices[8];
+        _mm256_storeu_ps(temp_floats, float_data);
+        _mm256_storeu_si256(reinterpret_cast<__m256i*>(temp_indices), index_data);
+
+        // 转存到std::vector<std::pair<float, size_t>>
+        for (int j = 0; j < 8; ++j) {
+            q[i + j] = std::make_pair(temp_floats[j], temp_indices[j]);
+        }
+    }
+    for (; i < size; ++i) {
+        q[i] = std::make_pair(query[i], i);
+    }
+
+
+
+int simd_binary_search(float* arr, int n, float target) {
+    int left = 0, right = n - 1;
+
+    while (left <= right) {
+        int mid = left + (right - left) / 2;
+        __m256 mid_val = _mm256_set1_ps(arr[mid]);
+        // __m256i mask;
+
+        // 处理中间位置向右的8个元素
+        if (mid + 8 < n) {
+            __m256 right_vals = _mm256_loadu_ps(&arr[mid + 1]);
+            __m256 cmp_mask = _mm256_cmp_ps(mid_val, right_vals, _CMP_LT_OS);
+            int mask_val = _mm256_movemask_ps(cmp_mask);
+            if (mask_val != 0) {  // 如果有任何true比较结果
+                right = mid - 1;
+                continue;
+            }
+        }
+
+        // 处理中间位置向左的8个元素
+        if (mid - 8 >= 0) {
+            __m256 left_vals = _mm256_loadu_ps(&arr[mid - 8]);
+            __m256 cmp_mask = _mm256_cmp_ps(mid_val, left_vals, _CMP_GT_OS);
+            int mask_val = _mm256_movemask_ps(cmp_mask);
+            if (mask_val != 0) {  // 如果有任何true比较结果
+                left = mid + 1;
+                continue;
+            }
+        }
+
+        if (arr[mid] == target) return mid;
+        if (arr[mid] < target)
+            left = mid + 1;
+        else
+            right = mid - 1;
+    }
+
+    return -1;  // 如果未找到
+}
+
+data_pos = simd_binary_search(data, size, query_current);
+
+void optimized_do_phase2(size_t* result, float* data, float* query, const size_t size) {
+    std::vector<std::pair<float, size_t>> q(size);
+
+    // 并行初始化查询数组
+    #pragma omp parallel for
+    for (size_t i = 0; i < size; i+=4) {
+        q[i] = std::make_pair(query[i], i);
+        q[i+1] = std::make_pair(query[i+1], i+1);
+        q[i+2] = std::make_pair(query[i+2], i+2);
+        q[i+3] = std::make_pair(query[i+3], i+3);
+    }
+
+    
+    // 使用并行STL算法进行排序（如果可用），否则使用单线程排序
+    __gnu_parallel::sort(q.begin(), q.end()); // 注意：需要OpenMP 4.5以上或第三方库支持并行
+    
+    // 并行搜索匹配位置
+    #pragma omp parallel for
+    for (size_t query_pos = 0; query_pos < size; ++query_pos) {
+        float query_current = q[query_pos].first;
+        size_t data_pos = 0;
+        
+        auto lower = std::lower_bound(data, data + size, query_current);
+        data_pos = lower - data;
+        
+        result[q[query_pos].second] = data_pos;
+    }
+}
+
+void optimized_do_phase2(size_t* result, float* data, float* query, size_t size) {
+    std::vector<std::pair<float, size_t>> q(size);
+
+    // 并行初始化查询数组
+    #pragma omp parallel for
+    for (size_t i = 0; i < size; i+=4) {
+        q[i] = std::make_pair(query[i], i);
+        q[i+1] = std::make_pair(query[i+1], i+1);
+        q[i+2] = std::make_pair(query[i+2], i+2);
+        q[i+3] = std::make_pair(query[i+3], i+3);
+    }
+
+    // 并行排序
+    __gnu_parallel::sort(q.begin(), q.end());
+
+    // 并行搜索匹配位置
+    size_t data_pos_start = 0;
+    #pragma omp parallel for lastprivate(data_pos_start)
+    for (size_t query_pos = 0; query_pos < size; ++query_pos) {
+        float query_current = q[query_pos].first;
+        size_t data_pos = 0;
+
+        auto lower = std::lower_bound(data + data_pos_start, data + size, query_current);
+        data_pos = lower - data;
+        data_pos_start = data_pos;  // 更新下一次查询的起始位置
+
+        result[q[query_pos].second] = data_pos;
+    }
+}

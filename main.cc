@@ -166,24 +166,24 @@ auto do_phase2_only(Config config) {
         std::to_string(optimized_time).c_str()
     );
 
-    if (!config.skip_baseline) {
-        auto baseline_begin = std::chrono::high_resolution_clock::now();
-        baseline_do_phase2(result, data, query, config.data_size);
-        auto baseline_end = std::chrono::high_resolution_clock::now();
-        auto baseline_time = (baseline_end - baseline_begin) / 1.0ms;
+    // if (!config.skip_baseline) {
+    //     auto baseline_begin = std::chrono::high_resolution_clock::now();
+    //     baseline_do_phase2(result, data, query, config.data_size);
+    //     auto baseline_end = std::chrono::high_resolution_clock::now();
+    //     auto baseline_time = (baseline_end - baseline_begin) / 1.0ms;
 
-        printf(
-            "%18s: %18s\n",
-            "baseline(ms)",
-            std::to_string(baseline_time).c_str()
-        );
+    //     printf(
+    //         "%18s: %18s\n",
+    //         "baseline(ms)",
+    //         std::to_string(baseline_time).c_str()
+    //     );
 
-        printf(
-            "%18s: %18f x\n",
-            "acceleration",
-            double(baseline_time / optimized_time)
-        );
-    }
+    //     printf(
+    //         "%18s: %18f x\n",
+    //         "acceleration",
+    //         double(baseline_time / optimized_time)
+    //     );
+    // }
 
     free(data);
     free(result);
@@ -309,7 +309,7 @@ auto main() -> int {
         return 0;
     }
 
-    do_phase1_and_phase2(config);
-    // do_phase2_only(config);
+    // do_phase1_and_phase2(config);
+    do_phase2_only(config);
     return 0;
 }

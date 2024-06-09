@@ -1,5 +1,6 @@
+# CXX=g++ -mavx2
 CXX=g++
-CXXFLAGS=-Og -g -fsanitize=address -Wall -Wextra -Wshadow -pipe
+CXXFLAGS=-Og -g -fsanitize=address -Wall -Wextra -Wshadow -pipe 
 
 OPENMP_FLAGS=-fopenmp
 
